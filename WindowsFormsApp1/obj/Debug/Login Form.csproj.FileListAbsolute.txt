@@ -1,0 +1,12 @@
+D:\Dotnet C#\Billing Software\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\Dotnet C#\Billing Software\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\Dotnet C#\Billing Software\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\Dotnet C#\Billing Software\WindowsFormsApp1\obj\Debug\Login Form.csproj.AssemblyReference.cache
+D:\Dotnet C#\Billing Software\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\Dotnet C#\Billing Software\WindowsFormsApp1\obj\Debug\Login Form.csproj.GenerateResource.cache
+D:\Dotnet C#\Billing Software\WindowsFormsApp1\obj\Debug\Login Form.csproj.CoreCompileInputs.cache
+D:\Dotnet C#\Billing Software\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\Dotnet C#\Billing Software\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\Dotnet C#\Billing Software\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmAdminDashboard.resources
+D:\Dotnet C#\Billing Software\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmUserDashboard.resources
+D:\Dotnet C#\Billing Software\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.UI.frmUsers.resources

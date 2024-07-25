@@ -1,0 +1,321 @@
+D:\Dotnet C#\Billing Software\WindowsFormsApp1\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Dotnet C#\Billing Software\WindowsFormsApp1\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Dotnet C#\Billing Software\WindowsFormsApp1\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Dotnet C#\Billing Software\WindowsFormsApp1\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Dotnet C#\Billing Software\WindowsFormsApp1\bin\Debug\Gold Billing.exe.config
+D:\Dotnet C#\Billing Software\WindowsFormsApp1\bin\Debug\Gold Billing.exe
+D:\Dotnet C#\Billing Software\WindowsFormsApp1\bin\Debug\Gold Billing.pdb
+D:\Dotnet C#\Billing Software\WindowsFormsApp1\bin\Debug\BouncyCastle.Cryptography.dll
+D:\Dotnet C#\Billing Software\WindowsFormsApp1\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\Dotnet C#\Billing Software\WindowsFormsApp1\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\Dotnet C#\Billing Software\WindowsFormsApp1\bin\Debug\CrystalDecisions.Shared.dll
+D:\Dotnet C#\Billing Software\WindowsFormsApp1\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\Dotnet C#\Billing Software\WindowsFormsApp1\bin\Debug\itext.barcodes.dll
+D:\Dotnet C#\Billing Software\WindowsFormsApp1\bin\Debug\itext.bouncy-castle-connector.dll
+D:\Dotnet C#\Billing Software\WindowsFormsApp1\bin\Debug\itext.commons.dll
+D:\Dotnet C#\Billing Software\WindowsFormsApp1\bin\Debug\itext.forms.dll
+D:\Dotnet C#\Billing Software\WindowsFormsApp1\bin\Debug\itext.io.dll
+D:\Dotnet C#\Billing Software\WindowsFormsApp1\bin\Debug\itext.kernel.dll
+D:\Dotnet C#\Billing Software\WindowsFormsApp1\bin\Debug\itext.layout.dll
+D:\Dotnet C#\Billing Software\WindowsFormsApp1\bin\Debug\itext.pdfa.dll
+D:\Dotnet C#\Billing Software\WindowsFormsApp1\bin\Debug\itext.pdfua.dll
+D:\Dotnet C#\Billing Software\WindowsFormsApp1\bin\Debug\itext.sign.dll
+D:\Dotnet C#\Billing Software\WindowsFormsApp1\bin\Debug\itext.styledxmlparser.dll
+D:\Dotnet C#\Billing Software\WindowsFormsApp1\bin\Debug\itext.svg.dll
+D:\Dotnet C#\Billing Software\WindowsFormsApp1\bin\Debug\itextsharp.dll
+D:\Dotnet C#\Billing Software\WindowsFormsApp1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Dotnet C#\Billing Software\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Dotnet C#\Billing Software\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+D:\Dotnet C#\Billing Software\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Dotnet C#\Billing Software\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.Logging.dll
+D:\Dotnet C#\Billing Software\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.Options.dll
+D:\Dotnet C#\Billing Software\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\Dotnet C#\Billing Software\WindowsFormsApp1\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Dotnet C#\Billing Software\WindowsFormsApp1\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Dotnet C#\Billing Software\WindowsFormsApp1\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Dotnet C#\Billing Software\WindowsFormsApp1\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Dotnet C#\Billing Software\WindowsFormsApp1\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Dotnet C#\Billing Software\WindowsFormsApp1\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Dotnet C#\Billing Software\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.dll
+D:\Dotnet C#\Billing Software\WindowsFormsApp1\bin\Debug\System.Buffers.dll
+D:\Dotnet C#\Billing Software\WindowsFormsApp1\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Dotnet C#\Billing Software\WindowsFormsApp1\bin\Debug\System.Memory.dll
+D:\Dotnet C#\Billing Software\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.dll
+D:\Dotnet C#\Billing Software\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Dotnet C#\Billing Software\WindowsFormsApp1\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Dotnet C#\Billing Software\WindowsFormsApp1\bin\Debug\System.ValueTuple.dll
+D:\Dotnet C#\Billing Software\WindowsFormsApp1\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Dotnet C#\Billing Software\WindowsFormsApp1\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Dotnet C#\Billing Software\WindowsFormsApp1\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Dotnet C#\Billing Software\WindowsFormsApp1\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Dotnet C#\Billing Software\WindowsFormsApp1\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Dotnet C#\Billing Software\WindowsFormsApp1\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Dotnet C#\Billing Software\WindowsFormsApp1\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Dotnet C#\Billing Software\WindowsFormsApp1\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Dotnet C#\Billing Software\WindowsFormsApp1\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Dotnet C#\Billing Software\WindowsFormsApp1\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Dotnet C#\Billing Software\WindowsFormsApp1\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Dotnet C#\Billing Software\WindowsFormsApp1\bin\Debug\EnvDTE.dll
+D:\Dotnet C#\Billing Software\WindowsFormsApp1\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Dotnet C#\Billing Software\WindowsFormsApp1\bin\Debug\stdole.dll
+D:\Dotnet C#\Billing Software\WindowsFormsApp1\bin\Debug\BouncyCastle.Cryptography.xml
+D:\Dotnet C#\Billing Software\WindowsFormsApp1\bin\Debug\itext.barcodes.xml
+D:\Dotnet C#\Billing Software\WindowsFormsApp1\bin\Debug\itext.bouncy-castle-connector.xml
+D:\Dotnet C#\Billing Software\WindowsFormsApp1\bin\Debug\itext.commons.xml
+D:\Dotnet C#\Billing Software\WindowsFormsApp1\bin\Debug\itext.forms.xml
+D:\Dotnet C#\Billing Software\WindowsFormsApp1\bin\Debug\itext.io.xml
+D:\Dotnet C#\Billing Software\WindowsFormsApp1\bin\Debug\itext.kernel.xml
+D:\Dotnet C#\Billing Software\WindowsFormsApp1\bin\Debug\itext.layout.xml
+D:\Dotnet C#\Billing Software\WindowsFormsApp1\bin\Debug\itext.pdfa.xml
+D:\Dotnet C#\Billing Software\WindowsFormsApp1\bin\Debug\itext.pdfua.xml
+D:\Dotnet C#\Billing Software\WindowsFormsApp1\bin\Debug\itext.sign.xml
+D:\Dotnet C#\Billing Software\WindowsFormsApp1\bin\Debug\itext.styledxmlparser.xml
+D:\Dotnet C#\Billing Software\WindowsFormsApp1\bin\Debug\itext.svg.xml
+D:\Dotnet C#\Billing Software\WindowsFormsApp1\bin\Debug\itextsharp.xml
+D:\Dotnet C#\Billing Software\WindowsFormsApp1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Dotnet C#\Billing Software\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+D:\Dotnet C#\Billing Software\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\Dotnet C#\Billing Software\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.Logging.xml
+D:\Dotnet C#\Billing Software\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\Dotnet C#\Billing Software\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.Options.xml
+D:\Dotnet C#\Billing Software\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\Dotnet C#\Billing Software\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.xml
+D:\Dotnet C#\Billing Software\WindowsFormsApp1\bin\Debug\System.Buffers.xml
+D:\Dotnet C#\Billing Software\WindowsFormsApp1\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Dotnet C#\Billing Software\WindowsFormsApp1\bin\Debug\System.Memory.xml
+D:\Dotnet C#\Billing Software\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.xml
+D:\Dotnet C#\Billing Software\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Dotnet C#\Billing Software\WindowsFormsApp1\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Dotnet C#\Billing Software\WindowsFormsApp1\bin\Debug\System.ValueTuple.xml
+D:\Dotnet C#\Billing Software\WindowsFormsApp1\bin\Debug\EnvDTE.xml
+D:\Dotnet C#\Billing Software\WindowsFormsApp1\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Dotnet C#\Billing Software\WindowsFormsApp1\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Dotnet C#\Billing Software\WindowsFormsApp1\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Dotnet C#\Billing Software\WindowsFormsApp1\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Dotnet C#\Billing Software\WindowsFormsApp1\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Dotnet C#\Billing Software\WindowsFormsApp1\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Dotnet C#\Billing Software\WindowsFormsApp1\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Dotnet C#\Billing Software\WindowsFormsApp1\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Dotnet C#\Billing Software\WindowsFormsApp1\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Dotnet C#\Billing Software\WindowsFormsApp1\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Dotnet C#\Billing Software\WindowsFormsApp1\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Dotnet C#\Billing Software\WindowsFormsApp1\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Dotnet C#\Billing Software\WindowsFormsApp1\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Dotnet C#\Billing Software\WindowsFormsApp1\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Dotnet C#\Billing Software\WindowsFormsApp1\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Dotnet C#\Billing Software\WindowsFormsApp1\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Dotnet C#\Billing Software\WindowsFormsApp1\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Dotnet C#\Billing Software\WindowsFormsApp1\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Dotnet C#\Billing Software\WindowsFormsApp1\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Dotnet C#\Billing Software\WindowsFormsApp1\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Dotnet C#\Billing Software\WindowsFormsApp1\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Dotnet C#\Billing Software\WindowsFormsApp1\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Dotnet C#\Billing Software\WindowsFormsApp1\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Dotnet C#\Billing Software\WindowsFormsApp1\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Dotnet C#\Billing Software\WindowsFormsApp1\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Dotnet C#\Billing Software\WindowsFormsApp1\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Dotnet C#\Billing Software\WindowsFormsApp1\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Dotnet C#\Billing Software\WindowsFormsApp1\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Dotnet C#\Billing Software\WindowsFormsApp1\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Dotnet C#\Billing Software\WindowsFormsApp1\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Dotnet C#\Billing Software\WindowsFormsApp1\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Dotnet C#\Billing Software\WindowsFormsApp1\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Dotnet C#\Billing Software\WindowsFormsApp1\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Dotnet C#\Billing Software\WindowsFormsApp1\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Dotnet C#\Billing Software\WindowsFormsApp1\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Dotnet C#\Billing Software\WindowsFormsApp1\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Dotnet C#\Billing Software\WindowsFormsApp1\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Dotnet C#\Billing Software\WindowsFormsApp1\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Dotnet C#\Billing Software\WindowsFormsApp1\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Dotnet C#\Billing Software\WindowsFormsApp1\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Dotnet C#\Billing Software\WindowsFormsApp1\obj\Debug\Details.csproj.AssemblyReference.cache
+D:\Dotnet C#\Billing Software\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.UI.frmAbout.resources
+D:\Dotnet C#\Billing Software\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmAdminDashboard.resources
+D:\Dotnet C#\Billing Software\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.UI.frmCategories.resources
+D:\Dotnet C#\Billing Software\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.UI.frmDeal_Cust.resources
+D:\Dotnet C#\Billing Software\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.UI.frmInventory.resources
+D:\Dotnet C#\Billing Software\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.UI.frmLogin.resources
+D:\Dotnet C#\Billing Software\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.UI.frmProducts.resources
+D:\Dotnet C#\Billing Software\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.UI.frmPurchaseAndSales.resources
+D:\Dotnet C#\Billing Software\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.UI.frmTransactions.resources
+D:\Dotnet C#\Billing Software\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmUserDashboard.resources
+D:\Dotnet C#\Billing Software\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\Dotnet C#\Billing Software\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.UI.frmUsers.resources
+D:\Dotnet C#\Billing Software\WindowsFormsApp1\obj\Debug\Details.csproj.GenerateResource.cache
+D:\Dotnet C#\Billing Software\WindowsFormsApp1\obj\Debug\Details.csproj.CoreCompileInputs.cache
+D:\Dotnet C#\Billing Software\WindowsFormsApp1\obj\Debug\Details.csproj.Up2Date
+D:\Dotnet C#\Billing Software\WindowsFormsApp1\obj\Debug\Gold Billing.exe
+D:\Dotnet C#\Billing Software\WindowsFormsApp1\obj\Debug\Gold Billing.pdb
+D:\Dotnet C#\Billing Software\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.UI.frmReportPrint.resources
+D:\Dotnet C#\Billing Software\WindowsFormsApp1\bin\Debug\Bunifu.Licensing.dll
+D:\Dotnet C#\Billing Software\WindowsFormsApp1\bin\Debug\RestSharp.dll
+D:\Dotnet C#\Billing Software\WindowsFormsApp1\bin\Debug\System.CodeDom.dll
+D:\Dotnet C#\Billing Software\WindowsFormsApp1\bin\Debug\System.Text.Encodings.Web.dll
+D:\Dotnet C#\Billing Software\WindowsFormsApp1\bin\Debug\System.Text.Json.dll
+D:\Dotnet C#\Billing Software\WindowsFormsApp1\bin\Debug\RestSharp.xml
+D:\Dotnet C#\Billing Software\WindowsFormsApp1\bin\Debug\System.CodeDom.xml
+D:\Dotnet C#\Billing Software\WindowsFormsApp1\bin\Debug\System.Text.Encodings.Web.xml
+D:\Dotnet C#\Billing Software\WindowsFormsApp1\bin\Debug\System.Text.Json.xml
+D:\Dotnet C#\Billing Software\WindowsFormsApp1\bin\Debug\MaterialSkin.dll
+D:\Dotnet C#\Billing Software\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.UI.Frmnewlog.resources
+G:\Billing Software\WindowsFormsApp1\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+G:\Billing Software\WindowsFormsApp1\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+G:\Billing Software\WindowsFormsApp1\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+G:\Billing Software\WindowsFormsApp1\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+G:\Billing Software\WindowsFormsApp1\bin\Debug\Gold Billing.exe.config
+G:\Billing Software\WindowsFormsApp1\bin\Debug\Gold Billing.exe
+G:\Billing Software\WindowsFormsApp1\bin\Debug\Gold Billing.pdb
+G:\Billing Software\WindowsFormsApp1\bin\Debug\BouncyCastle.Cryptography.dll
+G:\Billing Software\WindowsFormsApp1\bin\Debug\Bunifu.Licensing.dll
+G:\Billing Software\WindowsFormsApp1\bin\Debug\itext.barcodes.dll
+G:\Billing Software\WindowsFormsApp1\bin\Debug\itext.bouncy-castle-connector.dll
+G:\Billing Software\WindowsFormsApp1\bin\Debug\itext.commons.dll
+G:\Billing Software\WindowsFormsApp1\bin\Debug\itext.forms.dll
+G:\Billing Software\WindowsFormsApp1\bin\Debug\itext.io.dll
+G:\Billing Software\WindowsFormsApp1\bin\Debug\itext.kernel.dll
+G:\Billing Software\WindowsFormsApp1\bin\Debug\itext.layout.dll
+G:\Billing Software\WindowsFormsApp1\bin\Debug\itext.pdfa.dll
+G:\Billing Software\WindowsFormsApp1\bin\Debug\itext.pdfua.dll
+G:\Billing Software\WindowsFormsApp1\bin\Debug\itext.sign.dll
+G:\Billing Software\WindowsFormsApp1\bin\Debug\itext.styledxmlparser.dll
+G:\Billing Software\WindowsFormsApp1\bin\Debug\itext.svg.dll
+G:\Billing Software\WindowsFormsApp1\bin\Debug\itextsharp.dll
+G:\Billing Software\WindowsFormsApp1\bin\Debug\MaterialSkin.dll
+G:\Billing Software\WindowsFormsApp1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+G:\Billing Software\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+G:\Billing Software\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+G:\Billing Software\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+G:\Billing Software\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.Logging.dll
+G:\Billing Software\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.Options.dll
+G:\Billing Software\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.Primitives.dll
+G:\Billing Software\WindowsFormsApp1\bin\Debug\Microsoft.ReportViewer.Common.dll
+G:\Billing Software\WindowsFormsApp1\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+G:\Billing Software\WindowsFormsApp1\bin\Debug\Microsoft.ReportViewer.Design.dll
+G:\Billing Software\WindowsFormsApp1\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+G:\Billing Software\WindowsFormsApp1\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+G:\Billing Software\WindowsFormsApp1\bin\Debug\Microsoft.SqlServer.Types.dll
+G:\Billing Software\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.dll
+G:\Billing Software\WindowsFormsApp1\bin\Debug\RestSharp.dll
+G:\Billing Software\WindowsFormsApp1\bin\Debug\System.Buffers.dll
+G:\Billing Software\WindowsFormsApp1\bin\Debug\System.CodeDom.dll
+G:\Billing Software\WindowsFormsApp1\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+G:\Billing Software\WindowsFormsApp1\bin\Debug\System.Memory.dll
+G:\Billing Software\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.dll
+G:\Billing Software\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+G:\Billing Software\WindowsFormsApp1\bin\Debug\System.Text.Encodings.Web.dll
+G:\Billing Software\WindowsFormsApp1\bin\Debug\System.Text.Json.dll
+G:\Billing Software\WindowsFormsApp1\bin\Debug\System.Threading.Tasks.Extensions.dll
+G:\Billing Software\WindowsFormsApp1\bin\Debug\System.ValueTuple.dll
+G:\Billing Software\WindowsFormsApp1\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+G:\Billing Software\WindowsFormsApp1\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+G:\Billing Software\WindowsFormsApp1\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+G:\Billing Software\WindowsFormsApp1\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+G:\Billing Software\WindowsFormsApp1\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+G:\Billing Software\WindowsFormsApp1\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+G:\Billing Software\WindowsFormsApp1\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+G:\Billing Software\WindowsFormsApp1\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+G:\Billing Software\WindowsFormsApp1\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+G:\Billing Software\WindowsFormsApp1\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+G:\Billing Software\WindowsFormsApp1\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+G:\Billing Software\WindowsFormsApp1\bin\Debug\EnvDTE.dll
+G:\Billing Software\WindowsFormsApp1\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+G:\Billing Software\WindowsFormsApp1\bin\Debug\stdole.dll
+G:\Billing Software\WindowsFormsApp1\bin\Debug\BouncyCastle.Cryptography.xml
+G:\Billing Software\WindowsFormsApp1\bin\Debug\itext.barcodes.xml
+G:\Billing Software\WindowsFormsApp1\bin\Debug\itext.bouncy-castle-connector.xml
+G:\Billing Software\WindowsFormsApp1\bin\Debug\itext.commons.xml
+G:\Billing Software\WindowsFormsApp1\bin\Debug\itext.forms.xml
+G:\Billing Software\WindowsFormsApp1\bin\Debug\itext.io.xml
+G:\Billing Software\WindowsFormsApp1\bin\Debug\itext.kernel.xml
+G:\Billing Software\WindowsFormsApp1\bin\Debug\itext.layout.xml
+G:\Billing Software\WindowsFormsApp1\bin\Debug\itext.pdfa.xml
+G:\Billing Software\WindowsFormsApp1\bin\Debug\itext.pdfua.xml
+G:\Billing Software\WindowsFormsApp1\bin\Debug\itext.sign.xml
+G:\Billing Software\WindowsFormsApp1\bin\Debug\itext.styledxmlparser.xml
+G:\Billing Software\WindowsFormsApp1\bin\Debug\itext.svg.xml
+G:\Billing Software\WindowsFormsApp1\bin\Debug\itextsharp.xml
+G:\Billing Software\WindowsFormsApp1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+G:\Billing Software\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+G:\Billing Software\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+G:\Billing Software\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.Logging.xml
+G:\Billing Software\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+G:\Billing Software\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.Options.xml
+G:\Billing Software\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.Primitives.xml
+G:\Billing Software\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.xml
+G:\Billing Software\WindowsFormsApp1\bin\Debug\RestSharp.xml
+G:\Billing Software\WindowsFormsApp1\bin\Debug\System.Buffers.xml
+G:\Billing Software\WindowsFormsApp1\bin\Debug\System.CodeDom.xml
+G:\Billing Software\WindowsFormsApp1\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+G:\Billing Software\WindowsFormsApp1\bin\Debug\System.Memory.xml
+G:\Billing Software\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.xml
+G:\Billing Software\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+G:\Billing Software\WindowsFormsApp1\bin\Debug\System.Text.Encodings.Web.xml
+G:\Billing Software\WindowsFormsApp1\bin\Debug\System.Text.Json.xml
+G:\Billing Software\WindowsFormsApp1\bin\Debug\System.Threading.Tasks.Extensions.xml
+G:\Billing Software\WindowsFormsApp1\bin\Debug\System.ValueTuple.xml
+G:\Billing Software\WindowsFormsApp1\bin\Debug\EnvDTE.xml
+G:\Billing Software\WindowsFormsApp1\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+G:\Billing Software\WindowsFormsApp1\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+G:\Billing Software\WindowsFormsApp1\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+G:\Billing Software\WindowsFormsApp1\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+G:\Billing Software\WindowsFormsApp1\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+G:\Billing Software\WindowsFormsApp1\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+G:\Billing Software\WindowsFormsApp1\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+G:\Billing Software\WindowsFormsApp1\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+G:\Billing Software\WindowsFormsApp1\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+G:\Billing Software\WindowsFormsApp1\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+G:\Billing Software\WindowsFormsApp1\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\Billing Software\WindowsFormsApp1\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\Billing Software\WindowsFormsApp1\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\Billing Software\WindowsFormsApp1\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\Billing Software\WindowsFormsApp1\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\Billing Software\WindowsFormsApp1\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\Billing Software\WindowsFormsApp1\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\Billing Software\WindowsFormsApp1\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\Billing Software\WindowsFormsApp1\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\Billing Software\WindowsFormsApp1\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\Billing Software\WindowsFormsApp1\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+G:\Billing Software\WindowsFormsApp1\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+G:\Billing Software\WindowsFormsApp1\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+G:\Billing Software\WindowsFormsApp1\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+G:\Billing Software\WindowsFormsApp1\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+G:\Billing Software\WindowsFormsApp1\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+G:\Billing Software\WindowsFormsApp1\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+G:\Billing Software\WindowsFormsApp1\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+G:\Billing Software\WindowsFormsApp1\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+G:\Billing Software\WindowsFormsApp1\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+G:\Billing Software\WindowsFormsApp1\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+G:\Billing Software\WindowsFormsApp1\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+G:\Billing Software\WindowsFormsApp1\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+G:\Billing Software\WindowsFormsApp1\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+G:\Billing Software\WindowsFormsApp1\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+G:\Billing Software\WindowsFormsApp1\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+G:\Billing Software\WindowsFormsApp1\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+G:\Billing Software\WindowsFormsApp1\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+G:\Billing Software\WindowsFormsApp1\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+G:\Billing Software\WindowsFormsApp1\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+G:\Billing Software\WindowsFormsApp1\obj\Debug\Details.csproj.AssemblyReference.cache
+G:\Billing Software\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.UI.frmAbout.resources
+G:\Billing Software\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmAdminDashboard.resources
+G:\Billing Software\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.UI.frmCategories.resources
+G:\Billing Software\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.UI.frmDeal_Cust.resources
+G:\Billing Software\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.UI.frmInventory.resources
+G:\Billing Software\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.UI.frmLogin.resources
+G:\Billing Software\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.UI.frmProducts.resources
+G:\Billing Software\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.UI.frmPurchaseAndSales.resources
+G:\Billing Software\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.UI.frmTransactions.resources
+G:\Billing Software\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmUserDashboard.resources
+G:\Billing Software\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+G:\Billing Software\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.UI.frmUsers.resources
+G:\Billing Software\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.UI.frmReportPrint.resources
+G:\Billing Software\WindowsFormsApp1\obj\Debug\Details.csproj.GenerateResource.cache
+G:\Billing Software\WindowsFormsApp1\obj\Debug\Details.csproj.CoreCompileInputs.cache
+G:\Billing Software\WindowsFormsApp1\obj\Debug\Details.csproj.Up2Date
+G:\Billing Software\WindowsFormsApp1\obj\Debug\Gold Billing.exe
+G:\Billing Software\WindowsFormsApp1\obj\Debug\Gold Billing.pdb
+G:\Billing Software\WindowsFormsApp1\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+G:\Billing Software\WindowsFormsApp1\bin\Debug\CrystalDecisions.ReportSource.dll
+G:\Billing Software\WindowsFormsApp1\bin\Debug\CrystalDecisions.Shared.dll
+G:\Billing Software\WindowsFormsApp1\bin\Debug\CrystalDecisions.Windows.Forms.dll
+G:\Billing Software\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.UI.frmOTPmsg.resources
+G:\Billing Software\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.UI.frmSettings.resources
